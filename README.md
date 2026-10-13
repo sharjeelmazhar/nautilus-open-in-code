@@ -1,5 +1,19 @@
 # nautilus-open-in-code
 
+<!-- portfolio:start -->
+<p align="center">
+  <img src="docs/portfolio/01-cover.jpg" alt="Open in Code overview" width="720">
+</p>
+
+<details>
+<summary><b>More screenshots</b> (how it works)</summary>
+<br>
+<p align="center">
+  <img src="docs/portfolio/02-details.jpg" alt="How it works" width="720">
+</p>
+</details>
+<!-- portfolio:end -->
+
 Adds an **Open in Code** entry to the right-click menu of GNOME Files (Nautilus), like the "Open with Code" entry that VS Code adds on Windows.
 
 - Right-click the empty space inside a folder to open that folder in VS Code. This does the same as running `code .` there.
